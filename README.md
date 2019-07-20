@@ -41,4 +41,4 @@
       
     実行の様子
     
-    ![]
+    - ![](https://github.com/gauod/gs_r/blob/master/gs.gif)
