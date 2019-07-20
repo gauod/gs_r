@@ -29,3 +29,16 @@
     
       python3.7
       
+  - 参考にしたサイト
+  
+    動画を読み込みフレームごとに画像にして保存する関数の実装について参考にしたサイト
+    
+      https://note.nkmk.me/python-opencv-video-to-still-image/
+      
+    複数の画像を読み込む方法について参考にしたサイト
+    
+      https://www.sejuku.net/blog/60333
+      
+    実行の様子
+    
+    
