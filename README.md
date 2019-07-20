@@ -39,6 +39,11 @@
     
       https://www.sejuku.net/blog/60333
       
-    実行の様子
+  - 実行の様子
     
     - ![](https://github.com/gauod/gs_r/blob/master/gs.gif)
+    
+    
+  - 解析に使った動画の一部のgif
+  
+    - ![](https://github.com/gauod/gs_r/blob/master/do.gif)
